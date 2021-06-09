@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="self.events.data.microsoft.com:443" rc="" rm="Remote host terminated the handshake&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1407" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT self.events.data.microsoft.com:443 HTTP/1.0&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="www.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT www.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="89" it="0" lt="88" ct="84" ts="1623146302149" s="true" lb="/webtours-1" rc="301" rm="Moved Permanently" tn="" dt="text" de="iso-8859-1" by="479" sby="578" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Date: Tue, 08 Jun 2021 09:58:22 GMT
+Server: Apache/2.2.21 (Win32)
+Location: http://192.168.43.163:1080/webtours/
+Content-Length: 244
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt;
+&lt;html&gt;&lt;head&gt;
+&lt;title&gt;301 Moved Permanently&lt;/title&gt;
+&lt;/head&gt;&lt;body&gt;
+&lt;h1&gt;Moved Permanently&lt;/h1&gt;
+&lt;p&gt;The document has moved &lt;a href=&quot;http://192.168.43.163:1080/webtours/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623145691; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <redirectLocation class="java.lang.String">http://192.168.43.163:1080/webtours/</redirectLocation>
+  <java.net.URL>http://192.168.43.163:1080/webtours</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="96" ct="4" ts="1623146302412" s="true" lb="/cgi-bin/welcome.pl-2" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="989" sby="648" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:58:22 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&amp;1623146302; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Mon, 07-Jun-2021 09:58:22 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/webtours/
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ ---&gt;
+
+&lt;html&gt;
+&lt;title&gt;Web Tours&lt;/title&gt;
+   &lt;!-- Frame Set --&gt;
+   &lt;frameset cols=&quot;160,*&quot; border=&quot;1&quot; frameborder=&quot;1&quot;&gt;
+      &lt;!-- Navigation Frame --&gt;
+      &lt;frame src=&quot;nav.pl?in=home&quot; name=&quot;navbar&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; 
+            noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+      &lt;!-- Home Frame --&gt;
+      &lt;frame src=&quot;/WebTours/home.html&quot; name=&quot;info&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; 
+            noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+   &lt;/frameset&gt;
+&lt;/html&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623145691; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/welcome.pl?signOff=true</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="59" ct="1" ts="1623146302564" s="true" lb="/cgi-bin/nav.pl-3" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="1720" sby="551" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:58:22 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 09:58:22 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/welcome.pl?signOff=true
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Web Tours Navigation Bar&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+&lt;/style&gt;
+&lt;form method=&quot;post&quot; action=&quot;/cgi-bin/login.pl&quot; target=&quot;body&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;userSession&quot; value=&quot;131482.081976509zHzDVAQpfQVzzzzHtAfHipzfHff&quot;/&gt;
+&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;small&gt;&amp;nbsp;Username&lt;/small&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;username&quot; value=&quot;&quot; size=&quot;14&quot; maxlength=&quot;14&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;small&gt;&amp;nbsp;Password&lt;/small&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;password&quot; name=&quot;password&quot; value=&quot;&quot; size=&quot;14&quot; maxlength=&quot;14&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;image&quot; name=&quot;login&quot; value=&quot;Login&quot; alt=&quot;Login&quot; border=&quot;1&quot; 
+src=&quot;/WebTours/images/mer_login.gif&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;input type=&quot;hidden&quot; name=&quot;JSFormSubmit&quot; value=&quot;off&quot;/&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/nav.pl?in=home</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="self.events.data.microsoft.com:443" rc="" rm="Remote host terminated the handshake&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1407" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT self.events.data.microsoft.com:443 HTTP/1.0&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="sb-ssl.google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT sb-ssl.google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="45" it="0" lt="43" ct="3" ts="1623146332774" s="true" lb="/cgi-bin/login.pl-4" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="815" sby="790" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:58:52 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/nav.pl?in=home
+Accept-Language: en-US,en;q=0.9
+Origin: http://192.168.43.163:1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: max-age=0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Content-Length: 121
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!--
+User password was correct - added a cookie with the user&apos;s default
+information.  Set the user up to make reservations...
+
+---&gt;
+
+&lt;html&gt;
+&lt;title&gt;Web Tours&lt;/title&gt;
+&lt;frameset cols=&quot;160,*&quot; border=1 frameborder=1&gt;
+&lt;frame src=&quot;nav.pl?page=menu&amp;in=home&quot; name=&quot;navbar&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+&lt;frame src=&quot;login.pl?intro=true&quot; name=&quot;info&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+&lt;/frameset&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">userSession=131482.081976509zHzDVAQpfQVzzzzHtAfHipzfHff&amp;username=jojo&amp;password=bean&amp;login.x=54&amp;login.y=6&amp;JSFormSubmit=off</queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/login.pl</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="45" ct="2" ts="1623146332842" s="true" lb="/cgi-bin/login.pl-6" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="1122" sby="651" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:58:52 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/login.pl
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Welcome to Web Tours&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;p /&gt;&lt;style&gt;blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}&lt;/style&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;blockquote&gt;Welcome, &lt;b&gt;jojo&lt;/b&gt;, to the Web Tours reservation pages.&lt;BR/&gt;Using the menu to the left, you can search for new flights to book, 
+or review/edit the flights already booked.  Don&apos;t forget to sign off when
+you&apos;re done!
+&lt;/blockquote&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/login.pl?intro=true</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="45" ct="2" ts="1623146332844" s="true" lb="/cgi-bin/nav.pl-5" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="1713" sby="656" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:58:52 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 09:58:52 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/login.pl
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Web Tours Navigation Bar&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+
+&lt;style&gt;
+	blockquote {font-family: tahoma; font-size : 10pt}
+	H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+	small {font-family: tahoma; font-size : 8pt}
+	H3{font-family: tahoma; font-size : 10pt; color: black}
+	A {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATION: none}
+	A:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DECORATION: underline}
+	TD {font-family: tahoma; font-size : 10pt; color: black}
+&lt;/style&gt;
+
+&lt;BR&gt;&lt;BR&gt;&lt;center&gt;
+
+&lt;br clear=&quot;both&quot;/&gt;&lt;center&gt;&lt;A HREF=&quot;welcome.pl?page=search&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/flights.gif&quot; 
+ALT=&quot;Search Flights Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear=&quot;both&quot;/&gt;&lt;A HREF=&quot;welcome.pl?page=itinerary&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/itinerary.gif&quot; 
+ALT=&quot;Itinerary Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear=&quot;both&quot;/&gt;&lt;A HREF=&quot;welcome.pl?page=menus&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/in_home.gif&quot; 
+ALT=&quot;Home Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear&gt;&lt;A HREF=&quot;welcome.pl?signOff=1&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/signoff.gif&quot; 
+ALT=&quot;SignOff Button&quot;/&gt;&lt;/A&gt;&lt;/center&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/nav.pl?page=menu&amp;in=home</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="self.events.data.microsoft.com:443" rc="" rm="Remote host terminated the handshake&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1407" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT self.events.data.microsoft.com:443 HTTP/1.0&#xd;
+</samplerData>
+</sample>
+<httpSample t="44" it="0" lt="42" ct="1" ts="1623146360352" s="true" lb="/cgi-bin/welcome.pl-7" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="807" sby="670" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:59:20 GMT
+Server: Apache/2.2.21 (Win32)
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/nav.pl?page=menu&amp;in=home
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!-- 
+ User has returned to the search page.  Since user has already logged on,
+ we can give them the menu in the navbar.
+ ---&gt;
+
+&lt;html&gt;
+&lt;title&gt;Web Tours&lt;/title&gt;
+   &lt;!-- Frame Set --&gt;
+   &lt;frameset cols=&quot;160,*&quot; border=&quot;1&quot; frameborder=&quot;1&quot;&gt;
+      &lt;!-- Navigation Frame --&gt;
+      &lt;frame src=&quot;nav.pl?page=menu&amp;in=flights&quot; name=&quot;navbar&quot; 
+            marginheight=&quot;2&quot; marginwidth=&quot;2&quot; norseize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+      &lt;!-- Reservation Frame --&gt;
+      &lt;frame src=&quot;reservations.pl?page=welcome&quot; name=&quot;info&quot; 
+            marginheight=&quot;2&quot; marginwidth=&quot;2&quot; norseize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+   &lt;/frameset&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/welcome.pl?page=search</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="48" ct="3" ts="1623146360419" s="true" lb="/cgi-bin/nav.pl-8" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="1713" sby="673" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:59:20 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 09:59:20 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/welcome.pl?page=search
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Web Tours Navigation Bar&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+
+&lt;style&gt;
+	blockquote {font-family: tahoma; font-size : 10pt}
+	H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+	small {font-family: tahoma; font-size : 8pt}
+	H3{font-family: tahoma; font-size : 10pt; color: black}
+	A {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATION: none}
+	A:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DECORATION: underline}
+	TD {font-family: tahoma; font-size : 10pt; color: black}
+&lt;/style&gt;
+
+&lt;BR&gt;&lt;BR&gt;&lt;center&gt;
+
+&lt;br clear=&quot;both&quot;/&gt;&lt;center&gt;&lt;A HREF=&quot;welcome.pl?page=search&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/in_flights.gif&quot; 
+ALT=&quot;Search Flights Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear=&quot;both&quot;/&gt;&lt;A HREF=&quot;welcome.pl?page=itinerary&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/itinerary.gif&quot; 
+ALT=&quot;Itinerary Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear=&quot;both&quot;/&gt;&lt;A HREF=&quot;welcome.pl?page=menus&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/home.gif&quot; 
+ALT=&quot;Home Button&quot;/&gt;&lt;/A&gt;
+&lt;br clear&gt;&lt;A HREF=&quot;welcome.pl?signOff=1&quot; TARGET=&quot;body&quot;&gt;&lt;IMG BORDER=&quot;0&quot; SRC=&quot;/WebTours/images/signoff.gif&quot; 
+ALT=&quot;SignOff Button&quot;/&gt;&lt;/A&gt;&lt;/center&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/nav.pl?page=menu&amp;in=flights</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="73" ct="1" ts="1623146360422" s="true" lb="/cgi-bin/reservations.pl-9" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="4484" sby="674" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 09:59:20 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 09:59:20 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/welcome.pl?page=search
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Flight Selections&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}&lt;/style&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;h1&gt;&lt;font color=&quot;#003366&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Find Flight&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;blockquote&gt;
+&lt;form method=&quot;post&quot; action=&quot;reservations.pl&quot; enctype=&quot;application/x-www-form-urlencoded&quot; onsubmit=&quot;&quot; name=&quot;DestForm&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;advanceDiscount&quot; value=&quot;0&quot;  /&gt;&lt;table border=&quot;0&quot; cellspacing=&quot;5&quot;&gt;&lt;tr&gt;&lt;td align=&quot;left&quot;&gt;Departure City :&lt;/td&gt; &lt;td&gt;&lt;select name=&quot;depart&quot; &gt;
+&lt;option selected=&quot;selected&quot; value=&quot;Denver&quot;&gt;Denver&lt;/option&gt;
+&lt;option value=&quot;Frankfurt&quot;&gt;Frankfurt&lt;/option&gt;
+&lt;option value=&quot;London&quot;&gt;London&lt;/option&gt;
+&lt;option value=&quot;Los Angeles&quot;&gt;Los Angeles&lt;/option&gt;
+&lt;option value=&quot;Paris&quot;&gt;Paris&lt;/option&gt;
+&lt;option value=&quot;Portland&quot;&gt;Portland&lt;/option&gt;
+&lt;option value=&quot;San Francisco&quot;&gt;San Francisco&lt;/option&gt;
+&lt;option value=&quot;Seattle&quot;&gt;Seattle&lt;/option&gt;
+&lt;option value=&quot;Sydney&quot;&gt;Sydney&lt;/option&gt;
+&lt;option value=&quot;Zurich&quot;&gt;Zurich&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Departure Date :&lt;/td&gt; &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;departDate&quot; value=&quot;06/09/2021&quot; size=&quot;10&quot; maxlength=&quot;10&quot; /&gt; 
+&lt;!-- Departure Date Applet --&gt;
+&lt;APPLET CODEBASE=&quot;/WebTours/classes/&quot; CODE=&quot;FormDateUpdate.class&quot; MAYSCRIPT Width=26 Height=28 BORDER=0&gt;
+   &lt;PARAM NAME=CalenderTitle  VALUE=&quot;Select Departure Date&quot;&gt;
+   &lt;PARAM NAME=HtmlFormIndex  VALUE=0&gt;
+   &lt;PARAM NAME=HtmlEditIndex  VALUE=2&gt;
+   &lt;PARAM NAME=AutoClose      VALUE=1&gt;
+   &lt;PARAM NAME=Label          VALUE=&quot;...&quot;&gt;
+&lt;/APPLET&gt;
+&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot;&gt;Arrival City :&lt;/td&gt; &lt;td&gt;&lt;select name=&quot;arrive&quot; &gt;
+&lt;option selected=&quot;selected&quot; value=&quot;Denver&quot;&gt;Denver&lt;/option&gt;
+&lt;option value=&quot;Frankfurt&quot;&gt;Frankfurt&lt;/option&gt;
+&lt;option value=&quot;London&quot;&gt;London&lt;/option&gt;
+&lt;option value=&quot;Los Angeles&quot;&gt;Los Angeles&lt;/option&gt;
+&lt;option value=&quot;Paris&quot;&gt;Paris&lt;/option&gt;
+&lt;option value=&quot;Portland&quot;&gt;Portland&lt;/option&gt;
+&lt;option value=&quot;San Francisco&quot;&gt;San Francisco&lt;/option&gt;
+&lt;option value=&quot;Seattle&quot;&gt;Seattle&lt;/option&gt;
+&lt;option value=&quot;Sydney&quot;&gt;Sydney&lt;/option&gt;
+&lt;option value=&quot;Zurich&quot;&gt;Zurich&lt;/option&gt;
+&lt;/select&gt;&lt;/td&gt; &lt;td align=&quot;left&quot;&gt;Return Date :&lt;/td&gt; &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;returnDate&quot; value=&quot;06/10/2021&quot; size=&quot;10&quot; maxlength=&quot;10&quot; /&gt; 
+&lt;!-- Return Date Applet --&gt;
+&lt;APPLET CODEBASE=&quot;/WebTours/classes/&quot; CODE=&quot;FormDateUpdate.class&quot; MAYSCRIPT Width=26 Height=28 BORDER=0&gt;
+   &lt;PARAM NAME=CalenderTitle  VALUE=&quot;Select Return Date&quot;&gt;
+   &lt;PARAM NAME=HtmlFormIndex  VALUE=0&gt;
+   &lt;PARAM NAME=HtmlEditIndex  VALUE=4&gt;
+   &lt;PARAM NAME=AutoClose      VALUE=1&gt;
+   &lt;PARAM NAME=Label          VALUE=&quot;...&quot;&gt;
+&lt;/APPLET&gt;
+&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;left&quot;&gt;No. of Passengers : &lt;/td&gt; &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;numPassengers&quot; value=&quot;1&quot; size=&quot;3&quot; maxlength=&quot;8&quot; /&gt;&lt;/td&gt; &lt;td colspan=&quot;2&quot;&gt;&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;roundtrip&quot; value=&quot;on&quot; /&gt;Roundtrip ticket&lt;/label&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;Seating Preference&lt;/td&gt; &lt;td /&gt; &lt;td&gt;Type of Seat&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatPref&quot; value=&quot;Aisle&quot; /&gt;Aisle&lt;/label&gt;&lt;br /&gt; &lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatPref&quot; value=&quot;Window&quot; /&gt;Window&lt;/label&gt;&lt;br /&gt; &lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatPref&quot; value=&quot;None&quot; checked=&quot;checked&quot; /&gt;None&lt;/label&gt;&lt;br /&gt;&lt;/td&gt; &lt;td /&gt; &lt;td&gt;&lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatType&quot; value=&quot;First&quot; /&gt;First&lt;/label&gt;&lt;br /&gt; &lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatType&quot; value=&quot;Business&quot; /&gt;Business&lt;/label&gt;&lt;br /&gt; &lt;label&gt;&lt;input type=&quot;radio&quot; name=&quot;seatType&quot; value=&quot;Coach&quot; checked=&quot;checked&quot; /&gt;Coach&lt;/label&gt;&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td height=&quot;10&quot; /&gt;&lt;/tr&gt; &lt;tr&gt;&lt;td align=&quot;center&quot; colspan=&quot;4&quot;&gt;&lt;input type=&quot;image&quot; name=&quot;findFlights&quot; src=&quot;/WebTours/images/button_next.gif&quot; border=&quot;0&quot; /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;div&gt;&lt;input type=&quot;hidden&quot; name=&quot;.cgifields&quot; value=&quot;roundtrip&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;.cgifields&quot; value=&quot;seatType&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;.cgifields&quot; value=&quot;seatPref&quot;  /&gt;&lt;/div&gt;&lt;/form&gt;
+&lt;/blockquote&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/reservations.pl?page=welcome</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="google.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="1" it="0" lt="0" ct="1" ts="1623146368951" s="false" lb="/service/update2?cup2key=10:720929118&amp;cup2hreq=8803abd9e6402d78972be381004380ae6cccfa0113df118c6f216c789c2277d8-10" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: No such host is known (update.googleapis.com)" tn="" dt="text" de="" by="2130" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+X-Goog-Update-AppId: {430FD4D0-B729-4F61-AA34-91526481799D},{8A69D345-D564-463C-AFF1-A69D9E530F96}
+X-Goog-Update-Updater: Omaha-1.3.36.82
+X-HTTP-Attempts: 2
+X-Goog-Update-Interactivity: bg
+X-Last-HTTP-Status-Code: 0
+Pragma: no-cache
+X-Last-HR: 0x80072ee7
+X-Retry-Count: 0
+Host: update.googleapis.com
+Cache-Control: no-cache
+User-Agent: Google Update/1.3.36.82;winhttp;cup-ecdsa
+Content-Length: 1148
+Content-Type: text/plain; charset=UTF-8
+</requestHeader>
+  <responseData class="java.lang.String">java.net.UnknownHostException: No such host is known (update.googleapis.com)&#xd;
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)&#xd;
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:932)&#xd;
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1517)&#xd;
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:851)&#xd;
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1507)&#xd;
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1366)&#xd;
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1300)&#xd;
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl$JMeterDefaultHttpClientConnectionOperator.connect(HTTPHC4Impl.java:401)&#xd;
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:930)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:641)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1281)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:234)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;request protocol=&quot;3.0&quot; updater=&quot;Omaha&quot; updaterversion=&quot;1.3.36.82&quot; shell_version=&quot;1.3.36.31&quot; ismachine=&quot;1&quot; sessionid=&quot;{457C1978-DB13-4AF8-A56B-003B3229E31D}&quot; userid=&quot;{E85EB0B4-9DEC-4204-98FD-BEF914A70E36}&quot; installsource=&quot;scheduler&quot; requestid=&quot;{66AB2F3A-A0FB-431E-BB8D-8B8D84AA04D2}&quot; dedup=&quot;cr&quot; domainjoined=&quot;0&quot;&gt;&lt;hw physmemory=&quot;8&quot; sse=&quot;1&quot; sse2=&quot;1&quot; sse3=&quot;1&quot; ssse3=&quot;1&quot; sse41=&quot;1&quot; sse42=&quot;1&quot; avx=&quot;1&quot;/&gt;&lt;os platform=&quot;win&quot; version=&quot;10.0.19042.985&quot; sp=&quot;&quot; arch=&quot;x64&quot;/&gt;&lt;app appid=&quot;{430FD4D0-B729-4F61-AA34-91526481799D}&quot; version=&quot;1.3.36.82&quot; nextversion=&quot;&quot; lang=&quot;&quot; brand=&quot;CHBF&quot; client=&quot;&quot; installage=&quot;204&quot; installdate=&quot;5061&quot; cohort=&quot;1:9co:&quot; cohortname=&quot;Everyone Else&quot;&gt;&lt;updatecheck/&gt;&lt;ping r=&quot;1&quot; rd=&quot;5271&quot; ping_freshness=&quot;{154FE586-624D-4242-BAEA-C89908863DE7}&quot;/&gt;&lt;/app&gt;&lt;app appid=&quot;{8A69D345-D564-463C-AFF1-A69D9E530F96}&quot; version=&quot;91.0.4472.77&quot; nextversion=&quot;&quot; ap=&quot;x64-stable-statsdef_1&quot; lang=&quot;en&quot; brand=&quot;CHBF&quot; client=&quot;&quot; installage=&quot;204&quot; installdate=&quot;5061&quot; cohort=&quot;1:gu:&quot; cohortname=&quot;Stable&quot;&gt;&lt;updatecheck/&gt;&lt;ping active=&quot;1&quot; a=&quot;1&quot; r=&quot;1&quot; ad=&quot;5271&quot; rd=&quot;5271&quot; ping_freshness=&quot;{851DB270-3FEE-4A3E-97E8-19149AF9E4F2}&quot;/&gt;&lt;/app&gt;&lt;/request&gt;</queryString>
+  <java.net.URL>http://update.googleapis.com/service/update2?cup2key=10:720929118&amp;cup2hreq=8803abd9e6402d78972be381004380ae6cccfa0113df118c6f216c789c2277d8</java.net.URL>
+</httpSample>
+<httpSample t="1" it="0" lt="0" ct="1" ts="1623146379190" s="false" lb="/service/update2?cup2key=10:3991676196&amp;cup2hreq=8803abd9e6402d78972be381004380ae6cccfa0113df118c6f216c789c2277d8-11" rc="Non HTTP response code: java.net.UnknownHostException" rm="Non HTTP response message: No such host is known (update.googleapis.com)" tn="" dt="text" de="" by="2130" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+X-Goog-Update-AppId: {430FD4D0-B729-4F61-AA34-91526481799D},{8A69D345-D564-463C-AFF1-A69D9E530F96}
+X-Goog-Update-Updater: Omaha-1.3.36.82
+X-HTTP-Attempts: 5
+X-Goog-Update-Interactivity: bg
+X-Last-HTTP-Status-Code: 0
+Pragma: no-cache
+X-Last-HR: 0x80072ee7
+X-Retry-Count: 1
+Host: update.googleapis.com
+Cache-Control: no-cache
+User-Agent: Google Update/1.3.36.82;winhttp;cup-ecdsa
+Content-Length: 1148
+Content-Type: text/plain; charset=UTF-8
+</requestHeader>
+  <responseData class="java.lang.String">java.net.UnknownHostException: No such host is known (update.googleapis.com)&#xd;
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)&#xd;
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:932)&#xd;
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1517)&#xd;
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:851)&#xd;
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1507)&#xd;
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1366)&#xd;
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1300)&#xd;
+	at org.apache.http.impl.conn.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:45)&#xd;
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:112)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl$JMeterDefaultHttpClientConnectionOperator.connect(HTTPHC4Impl.java:401)&#xd;
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:376)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)&#xd;
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)&#xd;
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)&#xd;
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)&#xd;
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)&#xd;
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)&#xd;
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.executeRequest(HTTPHC4Impl.java:930)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPHC4Impl.sample(HTTPHC4Impl.java:641)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerProxy.sample(HTTPSamplerProxy.java:66)&#xd;
+	at org.apache.jmeter.protocol.http.sampler.HTTPSamplerBase.sample(HTTPSamplerBase.java:1281)&#xd;
+	at org.apache.jmeter.protocol.http.proxy.Proxy.run(Proxy.java:234)&#xd;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String"></cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;request protocol=&quot;3.0&quot; updater=&quot;Omaha&quot; updaterversion=&quot;1.3.36.82&quot; shell_version=&quot;1.3.36.31&quot; ismachine=&quot;1&quot; sessionid=&quot;{457C1978-DB13-4AF8-A56B-003B3229E31D}&quot; userid=&quot;{E85EB0B4-9DEC-4204-98FD-BEF914A70E36}&quot; installsource=&quot;scheduler&quot; requestid=&quot;{66AB2F3A-A0FB-431E-BB8D-8B8D84AA04D2}&quot; dedup=&quot;cr&quot; domainjoined=&quot;0&quot;&gt;&lt;hw physmemory=&quot;8&quot; sse=&quot;1&quot; sse2=&quot;1&quot; sse3=&quot;1&quot; ssse3=&quot;1&quot; sse41=&quot;1&quot; sse42=&quot;1&quot; avx=&quot;1&quot;/&gt;&lt;os platform=&quot;win&quot; version=&quot;10.0.19042.985&quot; sp=&quot;&quot; arch=&quot;x64&quot;/&gt;&lt;app appid=&quot;{430FD4D0-B729-4F61-AA34-91526481799D}&quot; version=&quot;1.3.36.82&quot; nextversion=&quot;&quot; lang=&quot;&quot; brand=&quot;CHBF&quot; client=&quot;&quot; installage=&quot;204&quot; installdate=&quot;5061&quot; cohort=&quot;1:9co:&quot; cohortname=&quot;Everyone Else&quot;&gt;&lt;updatecheck/&gt;&lt;ping r=&quot;1&quot; rd=&quot;5271&quot; ping_freshness=&quot;{154FE586-624D-4242-BAEA-C89908863DE7}&quot;/&gt;&lt;/app&gt;&lt;app appid=&quot;{8A69D345-D564-463C-AFF1-A69D9E530F96}&quot; version=&quot;91.0.4472.77&quot; nextversion=&quot;&quot; ap=&quot;x64-stable-statsdef_1&quot; lang=&quot;en&quot; brand=&quot;CHBF&quot; client=&quot;&quot; installage=&quot;204&quot; installdate=&quot;5061&quot; cohort=&quot;1:gu:&quot; cohortname=&quot;Stable&quot;&gt;&lt;updatecheck/&gt;&lt;ping active=&quot;1&quot; a=&quot;1&quot; r=&quot;1&quot; ad=&quot;5271&quot; rd=&quot;5271&quot; ping_freshness=&quot;{851DB270-3FEE-4A3E-97E8-19149AF9E4F2}&quot;/&gt;&lt;/app&gt;&lt;/request&gt;</queryString>
+  <java.net.URL>http://update.googleapis.com/service/update2?cup2key=10:3991676196&amp;cup2hreq=8803abd9e6402d78972be381004380ae6cccfa0113df118c6f216c789c2277d8</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="self.events.data.microsoft.com:443" rc="" rm="Remote host terminated the handshake&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1407" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT self.events.data.microsoft.com:443 HTTP/1.0&#xd;
+</samplerData>
+</sample>
+<httpSample t="125" it="0" lt="122" ct="66" ts="1623146419957" s="true" lb="/cgi-bin/reservations.pl-12" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="2673" sby="1039" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 10:00:20 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 10:00:20 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/reservations.pl?page=welcome
+Accept-Language: en-US,en;q=0.9
+Origin: http://192.168.43.163:1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: max-age=0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Content-Length: 239
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Flight Selections&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}&lt;/style&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;h1&gt;&lt;font color=&quot;#003366&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Find Flight&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;blockquote&gt;
+&lt;form method=&quot;post&quot; action=&quot;reservations.pl&quot; enctype=&quot;application/x-www-form-urlencoded&quot;&gt;
+
+&lt;center&gt;
+&lt;!-- From Frankfurt (1) To London (2) --&gt;
+&lt;table cellspacing=&quot;2&quot; border=&quot;0&quot; width=&quot;50%&quot;&gt;
+&lt;blockquote&gt;Flight departing from &lt;B&gt;Frankfurt&lt;/B&gt; to &lt;B&gt;London&lt;/B&gt; on &lt;B&gt;06/09/2021&lt;/B&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;tr bgcolor=&quot;#5E7884&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;white&quot;&gt;&lt;B&gt;Flight&lt;/B&gt;&lt;/font&gt;
+      		&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;white&quot;&gt;&lt;B&gt;Departure time&lt;/B&gt;
+      		&lt;td align=&quot;center&quot;&gt;&lt;font color=&quot;white&quot;&gt;&lt;B&gt;Cost&lt;/B&gt;
+&lt;tr bgcolor=&quot;#EFF2F7&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;outboundFlight&quot; value=&quot;120;266;06/09/2021&quot; checked=&quot;checked&quot; &gt;Blue Sky Air 120&lt;td align=&quot;center&quot;&gt;8am&lt;td align=&quot;center&quot;&gt;$ 266&lt;/TD&gt;&lt;/TR&gt;&lt;tr bgcolor=&quot;#EFF2F7&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;outboundFlight&quot; value=&quot;121;237;06/09/2021&quot;&gt;Blue Sky Air 121&lt;td align=&quot;center&quot;&gt;1pm&lt;td align=&quot;center&quot;&gt;$ 237&lt;/TD&gt;&lt;/TR&gt;&lt;tr bgcolor=&quot;#EFF2F7&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;outboundFlight&quot; value=&quot;122;251;06/09/2021&quot;&gt;Blue Sky Air 122&lt;td align=&quot;center&quot;&gt;5pm&lt;td align=&quot;center&quot;&gt;$ 251&lt;/TD&gt;&lt;/TR&gt;&lt;tr bgcolor=&quot;#EFF2F7&quot;&gt;&lt;td align=&quot;center&quot;&gt;&lt;input type=&quot;radio&quot; name=&quot;outboundFlight&quot; value=&quot;123;217;06/09/2021&quot;&gt;Blue Sky Air 123&lt;td align=&quot;center&quot;&gt;11pm&lt;td align=&quot;center&quot;&gt;$ 217&lt;/TD&gt;&lt;/TR&gt;&lt;/table&gt;
+
+&lt;input type=&quot;hidden&quot; name=&quot;numPassengers&quot; value=&quot;1&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;advanceDiscount&quot; value=&quot;0&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;seatType&quot; value=&quot;Coach&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;seatPref&quot; value=&quot;None&quot;  /&gt;
+&lt;P&gt;&lt;center&gt;&lt;table width=80% cellspacing=1&gt;&lt;tr&gt;&lt;td align=center&gt;
+&lt;input type=&quot;image&quot; name=&quot;reserveFlights&quot; src=&quot;/WebTours/images/button_next.gif&quot; border=&quot;0&quot; /&gt;
+&lt;td&gt;&amp;nbsp;&lt;td align=center&gt;&lt;/table&gt;&lt;/center&gt;&lt;/form&gt;&lt;/center&gt;
+&lt;/blockquote&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">advanceDiscount=0&amp;depart=Frankfurt&amp;departDate=06%2F09%2F2021&amp;arrive=London&amp;returnDate=06%2F10%2F2021&amp;numPassengers=1&amp;seatPref=None&amp;seatType=Coach&amp;findFlights.x=54&amp;findFlights.y=4&amp;.cgifields=roundtrip&amp;.cgifields=seatType&amp;.cgifields=seatPref</queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/reservations.pl</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="74" ct="1" ts="1623146423506" s="true" lb="/cgi-bin/reservations.pl-13" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="2929" sby="930" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 10:00:23 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 10:00:23 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/reservations.pl
+Accept-Language: en-US,en;q=0.9
+Origin: http://192.168.43.163:1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: max-age=0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Content-Length: 143
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Flight Reservation&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}&lt;/style&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;h1&gt;&lt;font color=&quot;#003366&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Payment Details&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;blockquote&gt;&lt;form method=&quot;post&quot; action=&quot;reservations.pl&quot; enctype=&quot;application/x-www-form-urlencoded&quot; onsubmit=&quot;return true ;&quot;&gt;
+&lt;table&gt;&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;First Name : &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;firstName&quot; value=&quot;Jojo&quot; size=&quot;15&quot; /&gt;&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;Last Name : &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;lastName&quot; value=&quot;Bean&amp;#10;&quot; size=&quot;15&quot; /&gt;&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;Street Address : &lt;td colspan=&quot;3&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;address1&quot;  size=&quot;30&quot; /&gt;&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;City/State/Zip : &lt;td colspan=&quot;3&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;address2&quot;  size=&quot;30&quot; /&gt;&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;Passenger Names : &lt;td colspan=&quot;3&quot;&gt;&lt;input type=&quot;text&quot; name=&quot;pass1&quot; value=&quot;Jojo Bean&amp;#10;&quot; size=&quot;30&quot; /&gt;&lt;tr&gt;&lt;td height=&quot;10&quot;&gt;&lt;tr&gt;&lt;td height=&quot;10&quot; align=&quot;center&quot; colspan=&quot;4&quot;&gt;Total for 1 ticket(s) is = $ 266&lt;tr&gt;&lt;td align=&quot;right&quot;&gt;Credit Card : &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;creditCard&quot;  size=&quot;20&quot; maxlength=&quot;20&quot; /&gt;&lt;td align=&quot;right&quot;&gt;Exp Date : &lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;expDate&quot; value=&quot;&amp;#10;&quot; size=&quot;5&quot; maxlength=&quot;5&quot; /&gt;&lt;tr&gt;&lt;TD&gt;&lt;td colspan=&quot;3&quot; align=&quot;left&quot;&gt;&lt;label&gt;&lt;input type=&quot;checkbox&quot; name=&quot;saveCC&quot; value=&quot;on&quot; /&gt;Save this Credit Card Information&lt;/label&gt;&lt;input type=&quot;hidden&quot; name=&quot;oldCCOption&quot; value=&quot;&quot;  /&gt;&lt;/table&gt;&lt;input type=&quot;hidden&quot; name=&quot;numPassengers&quot; value=&quot;1&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;seatType&quot; value=&quot;Coach&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;seatPref&quot; value=&quot;None&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;outboundFlight&quot; value=&quot;120;266;06/09/2021&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;advanceDiscount&quot; value=&quot;0&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;returnFlight&quot; value=&quot;&quot;  /&gt;&lt;input type=&quot;hidden&quot; name=&quot;JSFormSubmit&quot; value=&quot;off&quot;  /&gt;&lt;center&gt;&lt;table width=80% cellspacing=1&gt;&lt;tr&gt;&lt;td align=center&gt;
+&lt;input type=&quot;image&quot; name=&quot;buyFlights&quot; src=&quot;/WebTours/images/button_next.gif&quot; border=&quot;0&quot; /&gt;&lt;div&gt;&lt;input type=&quot;hidden&quot; name=&quot;.cgifields&quot; value=&quot;saveCC&quot;  /&gt;&lt;/div&gt;&lt;/form&gt;
+&lt;td&gt;&amp;nbsp;&lt;td align=center&gt;&lt;form method=&quot;post&quot; action=&quot;reservations.pl&quot; enctype=&quot;application/x-www-form-urlencoded&quot; onsubmit=&quot;void(0);&quot;&gt;
+&lt;/form&gt;&lt;/table&gt;&lt;/center&gt;&lt;/blockquote&gt;
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">outboundFlight=120%3B266%3B06%2F09%2F2021&amp;numPassengers=1&amp;advanceDiscount=0&amp;seatType=Coach&amp;seatPref=None&amp;reserveFlights.x=52&amp;reserveFlights.y=8</queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/reservations.pl</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2608" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2608" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="56" it="0" lt="52" ct="1" ts="1623146426705" s="true" lb="/cgi-bin/reservations.pl-14" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="2804" sby="1070" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 10:00:26 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 10:00:26 GMT
+Set-Cookie: MTUserInfo=firstName&amp;Jojo&amp;username&amp;jojo&amp;address2&amp;&amp;hash&amp;47&amp;address1&amp;&amp;lastName&amp;Bean%0A; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/reservations.pl
+Accept-Language: en-US,en;q=0.9
+Origin: http://192.168.43.163:1080
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Content-Type: application/x-www-form-urlencoded
+Cache-Control: max-age=0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Content-Length: 283
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Reservation Made!&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}&lt;/style&gt;&lt;BR/&gt;&lt;BR/&gt;&lt;h1&gt;&lt;font color=&quot;#003366&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;b&gt;Invoice&lt;/font&gt;&lt;/b&gt;&lt;/h1&gt;&lt;blockquote&gt;
+&lt;CENTER&gt;
+&lt;small&gt;&lt;B&gt;Thank you for booking through Web Tours.&lt;/B&gt;&lt;/small&gt;
+&lt;BR/&gt;
+&lt;BR/&gt;
+&lt;!-- Customer Name header --&gt;
+&lt;Table width=&quot;85%&quot; border=&quot;0&quot; cellspacing=&quot;0&quot; &gt;
+  &lt;TR bgcolor=&quot;#5E7884&quot;&gt;
+     &lt;TD colspan=&quot;2&quot; align=&quot;center&quot;&gt;
+        &lt;font color=&quot;white&quot;&gt;&lt;b&gt;JojoBean&apos;s Flight Invoice&lt;/b&gt;&lt;/font&gt;
+     &lt;/TD&gt;
+     &lt;TD width=&quot;160&quot; align=&quot;right&quot;&gt;
+         &lt;font color=&quot;white&quot;&gt;&lt;small&gt;Tue Jun  8 15:30:26 2021
+&lt;/small&gt;
+     &lt;/TD&gt;
+  &lt;/TR&gt;
+&lt;/Table&gt;
+
+&lt;Table width=&quot;85%&quot; border=&quot;0&quot; cellspacing=&quot;1&quot; &gt;
+&lt;!-- Flight Item header --&gt;
+  &lt;TR bgcolor=&quot;#EFF2F7&quot;&gt;
+     &lt;TD colspan=&quot;2&quot; align=&quot;left&quot;&gt;
+         Flights Reservation Requests:
+    &lt;/TD&gt;
+    &lt;TD align=&quot;center&quot;&gt;Cost
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+&lt;!-- Flight reserved --&gt;
+&lt;TR bgcolor=&quot;#EFF2F7&quot;&gt;
+    &lt;TD valign=&quot;top&quot;&gt;1.&lt;/TD&gt;
+    &lt;TD align=&quot;left&quot;&gt;
+       A Coach Class ticket
+ from Frankfurt to London.&lt;/u&gt;&lt;/b&gt;
+&lt;br/&gt;
+&lt;center&gt;
+       &lt;i&gt;
+          06/09/2021 :  8am : Flight 120 leaves Frankfurt  for London.&lt;br&gt;
+       &lt;br/&gt;
+    &lt;/TD&gt;
+    &lt;TD valign=&quot;top&quot;&gt;
+         $266
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+&lt;!-- Total Cost --&gt;
+  &lt;TR bgcolor=&quot;#EFF2F7&quot;&gt;
+    &lt;TD&gt;*
+    &lt;/TD&gt;
+    &lt;TD &gt; Total Cost
+    &lt;/TD&gt;
+    &lt;TD&gt;
+       &lt;b&gt; $266 &lt;/b&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+  &lt;TR bgcolor=&quot;#EFF2F7&quot;&gt;
+    &lt;TD&gt;-
+    &lt;/TD&gt;
+    &lt;TD &gt;
+       Total Charged to Credit Card # 
+    &lt;/TD&gt;
+    &lt;TD&gt;
+       &lt;b&gt; $266 &lt;/b&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;
+
+  &lt;TR bgcolor=&quot;#EFF2F7&quot;&gt;
+    &lt;TD&gt;*
+    &lt;/TD&gt;
+    &lt;TD &gt;
+        Credit Account Balance
+    &lt;/TD&gt;
+    &lt;TD&gt;
+       &lt;b&gt; $0.00 &lt;/b&gt;
+    &lt;/TD&gt;
+  &lt;/TR&gt;&lt;/Table&gt;
+&lt;BR/&gt;
+&lt;Table width=&quot;85%&quot; border=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td align=right&gt;
+&lt;form method=&quot;post&quot; action=&quot;&quot; enctype=&quot;application/x-www-form-urlencoded&quot;&gt;
+&lt;input type=&quot;image&quot; name=&quot;Book Another&quot; src=&quot;/WebTours/images/bookanother.gif&quot; border=&quot;0&quot; /&gt;&lt;/form&gt;    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/Table&gt;
+
+&lt;/Center&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;address2&amp;&amp;username&amp;jojo&amp;hash&amp;47&amp;lastName&amp;Bean%0A&amp;address1&amp;&amp;creditCard&amp;&amp;expDate&amp;%0A</cookies>
+  <method class="java.lang.String">POST</method>
+  <queryString class="java.lang.String">firstName=Jojo&amp;lastName=Bean&amp;address1=&amp;address2=&amp;pass1=Jojo+Bean&amp;creditCard=&amp;expDate=&amp;oldCCOption=&amp;numPassengers=1&amp;seatType=Coach&amp;seatPref=None&amp;outboundFlight=120%3B266%3B06%2F09%2F2021&amp;advanceDiscount=0&amp;returnFlight=&amp;JSFormSubmit=off&amp;buyFlights.x=42&amp;buyFlights.y=4&amp;.cgifields=saveCC</queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/reservations.pl</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="beacons.gcp.gvt2.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT beacons.gcp.gvt2.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="content-autofill.googleapis.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT content-autofill.googleapis.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="43" it="0" lt="40" ct="1" ts="1623146459013" s="true" lb="/cgi-bin/welcome.pl-16" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="989" sby="647" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 10:00:59 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&amp;1623146459; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Mon, 07-Jun-2021 10:00:59 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/nav.pl?page=menu&amp;in=flights
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ ---&gt;
+
+&lt;html&gt;
+&lt;title&gt;Web Tours&lt;/title&gt;
+   &lt;!-- Frame Set --&gt;
+   &lt;frameset cols=&quot;160,*&quot; border=&quot;1&quot; frameborder=&quot;1&quot;&gt;
+      &lt;!-- Navigation Frame --&gt;
+      &lt;frame src=&quot;nav.pl?in=home&quot; name=&quot;navbar&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; 
+            noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+      &lt;!-- Home Frame --&gt;
+      &lt;frame src=&quot;/WebTours/home.html&quot; name=&quot;info&quot; marginheight=&quot;2&quot; marginwidth=&quot;2&quot; 
+            noresize=&quot;noresize&quot; scrolling=&quot;auto&quot;/&gt;
+   &lt;/frameset&gt;
+&lt;/html&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146302; MTUserInfo=firstName&amp;Jojo&amp;username&amp;jojo&amp;address2&amp;&amp;hash&amp;47&amp;address1&amp;&amp;lastName&amp;Bean%0A</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/welcome.pl?signOff=1</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="google.com:443" rc="" rm="An established connection was aborted by the software in your host machine&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="2608" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT google.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+<httpSample t="45" it="0" lt="42" ct="1" ts="1623146459085" s="true" lb="/cgi-bin/nav.pl-17" rc="200" rm="OK" tn="" dt="text" de="ISO-8859-1" by="1721" sby="548" sc="1" ec="0" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Date: Tue, 08 Jun 2021 10:00:59 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Mon, 07 Jun 2021 10:00:59 GMT
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: close
+Referer: http://192.168.43.163:1080/cgi-bin/welcome.pl?signOff=1
+Accept-Language: en-US,en;q=0.9
+Host: 192.168.43.163:1080
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html
+	PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot;
+	 &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
+&lt;html xmlns=&quot;http://www.w3.org/1999/xhtml&quot; lang=&quot;en-US&quot; xml:lang=&quot;en-US&quot;&gt;
+&lt;head&gt;
+&lt;title&gt;Web Tours Navigation Bar&lt;/title&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=iso-8859-1&quot; /&gt;
+&lt;/head&gt;
+&lt;body bgcolor=&quot;#E0E7F1&quot;&gt;
+&lt;style&gt;
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+&lt;/style&gt;
+&lt;form method=&quot;post&quot; action=&quot;/cgi-bin/login.pl&quot; target=&quot;body&quot;&gt;
+&lt;input type=&quot;hidden&quot; name=&quot;userSession&quot; value=&quot;131482.094694208zHzDVVApctfiDDDDtAfHipzzVtHf&quot;/&gt;
+&lt;table border=&quot;0&quot;&gt;&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;small&gt;&amp;nbsp;Username&lt;/small&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;text&quot; name=&quot;username&quot; value=&quot;&quot; size=&quot;14&quot; maxlength=&quot;14&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;small&gt;&amp;nbsp;Password&lt;/small&gt;&lt;/td&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;password&quot; name=&quot;password&quot; value=&quot;&quot; size=&quot;14&quot; maxlength=&quot;14&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;input type=&quot;image&quot; name=&quot;login&quot; value=&quot;Login&quot; alt=&quot;Login&quot; border=&quot;1&quot; 
+src=&quot;/WebTours/images/mer_login.gif&quot;/&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;&amp;nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;input type=&quot;hidden&quot; name=&quot;JSFormSubmit&quot; value=&quot;off&quot;/&gt;
+&lt;/form&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <cookies class="java.lang.String">MSO=SID&amp;1623146459</cookies>
+  <method class="java.lang.String">GET</method>
+  <queryString class="java.lang.String"></queryString>
+  <java.net.URL>http://192.168.43.163:1080/cgi-bin/nav.pl?in=home</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="0" s="false" lb="beacons.gvt2.com:443" rc="" rm="Received fatal alert: certificate_unknown&#xa;**ensure browser is set to accept the JMeter proxy certificate**" tn="" dt="" de="" by="1289" sby="0" sc="1" ec="1" ng="0" na="0" hn="LAPTOP-29JI1F4F">
+  <responseHeader class="java.lang.String"></responseHeader>
+  <requestHeader class="java.lang.String"></requestHeader>
+  <responseData class="java.lang.String">Non-TEXT response data, cannot record: ()</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <samplerData class="java.lang.String">CONNECT beacons.gvt2.com:443 HTTP/1.1&#xd;
+</samplerData>
+</sample>
+
+</testResults>
